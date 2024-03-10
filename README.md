@@ -1,9 +1,8 @@
 # IPhone
 **This is my second Project.. It takes 3days...In this project i used HTML5,CSS3, Js.. So u Can visit it on my Github..**
 <br></br>
-https://github.com/Moniia/IPhone/assets/155805252/c864b824-bceb-427d-b6e6-36dee9e1ff3a
 
- ---![iphone](https://github.com/Moniia/IPhone/assets/155805252/bbb54457-3aab-4c69-ac56-b9635b8bb975)--
+https://github.com/Moniia/IPhone/assets/155805252/c864b824-bceb-427d-b6e6-36dee9e1ff3a
 
 
 🔗 [[Demo Project](https://moniia.github.io/IPhone/)]
