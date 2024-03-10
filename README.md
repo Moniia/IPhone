@@ -4,7 +4,7 @@
  ![iphone](https://github.com/Moniia/IPhone/assets/155805252/bbb54457-3aab-4c69-ac56-b9635b8bb975)
 
 
-🔗 [[Demo Project](https://moniia.github.io/Lottory-Form/)]
+🔗 [[Demo Project](https://moniia.github.io/IPhone/)]
 
 👩🏻‍💻 Developed by Mona Aminian
 
